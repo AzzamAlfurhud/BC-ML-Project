@@ -52,3 +52,9 @@ Accuracy                    | 0.9526                                      | 0.95
 - Scikit-learn for modeling
 -  Matplotlib and Seaborn for plotting
 ```
+# Citation
+
+```
+[https://archive.ics.uci.edu/ml/datasets/Room+Occupancy+Estimation](https://archive.ics.uci.edu/ml/datasets/Room+Occupancy+Estimation)
+Adarsh Pal Singh, Vivek Jain, Sachin Chaudhari, Frank Alexander Kraemer, Stefan Werner and Vishal Garg, â€œMachine Learning-Based Occupancy Estimation Using Multivariate Sensor Nodes,â€ in 2018 IEEE Globecom Workshops (GC Wkshps), 2018.
+```
