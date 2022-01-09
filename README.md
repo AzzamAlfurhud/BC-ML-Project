@@ -38,23 +38,21 @@ Bayes and XGboost. Note that the standardized features were only
 used in the logistic regression model due to the other models not being
 distance based (It will not affect the result). The results are as follows:
 
-```
+
 Metrics                     | Logistic Regression (Standardized features) | Gaussian Naïve Bayes | XGboost
 ---                         | ---                                         | ---                  | ---
 F1 Score (Macro Average)    | 0.85                                        | 0.87                 | 0.99
 F1 Score (Weighted Average) | 0.95                                        | 0.95                 | 1.00
 Accuracy                    | 0.9526                                      | 0.9531               | 0.9960
-```
+
 # Tools
 
-```
+
 - Numpy and Pandas for data manipulation
 - Scikit-learn for modeling
 -  Matplotlib and Seaborn for plotting
-```
+
 # Citation
 
-```
 [https://archive.ics.uci.edu/ml/datasets/Room+Occupancy+Estimation](https://archive.ics.uci.edu/ml/datasets/Room+Occupancy+Estimation)
 Adarsh Pal Singh, Vivek Jain, Sachin Chaudhari, Frank Alexander Kraemer, Stefan Werner and Vishal Garg, â€œMachine Learning-Based Occupancy Estimation Using Multivariate Sensor Nodes,â€ in 2018 IEEE Globecom Workshops (GC Wkshps), 2018.
-```
