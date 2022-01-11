@@ -44,6 +44,8 @@ Metrics                     | Logistic Regression (Standardized features) | Gaus
 F1 Score (Macro Average)    | 0.85                                        | 0.87                 | 0.99
 F1 Score (Weighted Average) | 0.95                                        | 0.95                 | 1.00
 Accuracy                    | 0.9526                                      | 0.9531               | 0.9960
+CV F1 (Weighted Average)    | 0.9551			  		  | 0.9627		 | 0.9965
+
 
 # Tools
 
